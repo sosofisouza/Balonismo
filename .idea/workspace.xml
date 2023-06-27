@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd3ad55f-4728-4419-8cd6-ad3db0645de8" name="Changes" comment="Início do projeto">
-      <change afterPath="$PROJECT_DIR$/src/Balao.java" afterDir="false" />
+    <list default="true" id="bd3ad55f-4728-4419-8cd6-ad3db0645de8" name="Changes" comment="Iniciamos o projeto &quot;Balonismo&quot;. Criamos as classes Balao e Passeio e seus atributos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "Z:/LPAP/workspace/Balonismo"
+    "last_opened_file_path": "Z:/LIP1/sofia/projetos"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +46,9 @@
       <option name="presentableId" value="Default" />
       <updated>1685616657441</updated>
       <workItem from="1685616660328" duration="2017000" />
-      <workItem from="1686046771014" duration="1929000" />
+      <workItem from="1686046771014" duration="2052000" />
+      <workItem from="1686655294833" duration="589000" />
+      <workItem from="1687863247222" duration="3341000" />
     </task>
     <task id="LOCAL-00001" summary="Início do projeto">
       <created>1685618398532</created>
@@ -56,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685618398532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Iniciamos o projeto &quot;Balonismo&quot;. Criamos as classes Balao e Passeio e seus atributos">
+      <created>1686051002646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686051002646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Início do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Início do projeto" />
+    <MESSAGE value="Iniciamos o projeto &quot;Balonismo&quot;. Criamos as classes Balao e Passeio e seus atributos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciamos o projeto &quot;Balonismo&quot;. Criamos as classes Balao e Passeio e seus atributos" />
   </component>
 </project>
